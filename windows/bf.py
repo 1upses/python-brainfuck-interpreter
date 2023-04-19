@@ -1,4 +1,4 @@
-from linked_lists import linked_list
+from lists import list
 import sys, msvcrt
 
 def open_file(filename):
@@ -22,7 +22,7 @@ if __name__ == "__main__":
 
     string = open_file(sys.argv[1])
     pointer = i = 0
-    array = linked_list()
+    array = list()
 
     while i < len(string):
         match string[i]:
