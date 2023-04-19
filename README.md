@@ -5,6 +5,7 @@ This is a simple interpreter for the Brainfuck programming language, written in 
 ## Requirements
 
 To run the interpreter, you need to have Python installed on your computer. You can download Python from the official website [here](https://www.python.org/downloads/).
+You'll also need to install the [numpy library](https://pypi.org/project/numpy/)
 
 ## Usage
 
